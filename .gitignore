@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# NuGet
+packages/
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Local configuration
+appsettings.Local.json
+
+# User data
+data/
+metadata.json
+settings.json
+
+# Generated files
+*.cache
